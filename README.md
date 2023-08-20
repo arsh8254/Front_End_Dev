@@ -15,7 +15,7 @@
 
 - Project 5 : Simon Game - JS and jQuery
 
-- Project 14: Keeper_App - Clone of Google Keep -- Created using React.js concepts
+- Project 6 : Keeper_App - Clone of Google Keep -- Created using React.js concepts
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
